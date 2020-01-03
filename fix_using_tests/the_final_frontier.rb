@@ -13,7 +13,7 @@ end
 
 def greet_crew (crew)
   newGreetArray = ""
-  crew.each {|crew_member| newGreetAray << "Hello #{crew_member}."}
+  crew.each {|crew_member| newGreetArray << "Hello #{crew_member}."}
   newGreetArray
 end
 
