@@ -5,4 +5,5 @@ def snake_it_up(string)
   else
     newS
   end
+  newS
 end
