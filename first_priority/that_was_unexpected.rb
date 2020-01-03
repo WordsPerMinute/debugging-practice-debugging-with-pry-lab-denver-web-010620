@@ -1,3 +1,6 @@
+require 'lib/first_priority/you_called.rb'
+
+
 class Person
   attr_accessor :name, :candy_lover
 
