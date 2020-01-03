@@ -1,4 +1,4 @@
-require 'lib/first_priority/you_called.rb'
+require 'you_called.rb'
 
 
 class Person
